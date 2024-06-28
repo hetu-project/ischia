@@ -31,7 +31,7 @@
 
 - Assists in retaining an engaged user community and can be linked to incentive schemes.
 
-### 4. Online Time
+### 4. Online
 
 **Description**: Online at a preset time
 
