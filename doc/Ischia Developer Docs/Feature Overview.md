@@ -11,47 +11,6 @@
 | Follow | Follow x or join discord or github |  |
 |  |  |  |
 
-### 1. X-binding
-
-**Description**: Binding to X
-
-**Function Description**:
-
-- Users bind their external accounts (such as Twitter, etc.) with their Web3 wallet addresses on the platform.
-- This binding information is recorded and associated with the user's Web3 identity.
-
-**Implementation Steps**:
-
-1. Users initiate a binding request on the platform.
-2. Users authorize the platform to access their external account.
-3. The platform verifies user authorization and retrieves relevant information.
-4. The platform binds the external account information with the user’s Web3 wallet address and stores it in the database.
-
-**Application Scenarios**:
-
-- Enhances account security and credibility by linking external accounts.
-- Allows project owners to use the binding information for user identity verification and targeted marketing activities.
-
-### 2. Github-Binding
-
-**Description**: Binding to GitHub
-
-**Function Description**:
-
-- Users bind their GitHub accounts with their Web3 wallet addresses on the platform.
-- This information is stored and associated with the user's Web3 identity.
-
-**Implementation Steps**:
-
-1. Users initiate a binding request on the platform.
-2. Users authorize the platform to access their GitHub account.
-3. The platform verifies user authorization and retrieves relevant information.
-4. The platform binds the GitHub account information with the user’s Web3 wallet address and stores it in the database.
-
-**Application Scenarios**:
-
-- Useful for developers to verify their contributions and link their Web3 identity with their GitHub profile.
-- Project owners can leverage this information for community building and recognition of developers’ contributions.
 
 ### 3. Daily Activity
 
