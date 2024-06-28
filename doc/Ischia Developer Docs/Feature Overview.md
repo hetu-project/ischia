@@ -11,8 +11,49 @@
 | Follow | Follow x or join discord or github |  |
 |  |  |  |
 
+### 1. X-binding
 
-### 1. Daily Activity
+**Description**: Binding to X
+
+**Function Description**:
+
+- Users bind their external accounts (such as Twitter, etc.) with their Web3 wallet addresses on the platform.
+- This binding information is recorded and associated with the user's Web3 identity.
+
+**Implementation Steps**:
+
+1. Users initiate a binding request on the platform.
+2. Users authorize the platform to access their external account.
+3. The platform verifies user authorization and retrieves relevant information.
+4. The platform binds the external account information with the user’s Web3 wallet address and stores it in the database.
+
+**Application Scenarios**:
+
+- Enhances account security and credibility by linking external accounts.
+- Allows project owners to use the binding information for user identity verification and targeted marketing activities.
+
+### 2. Github-Binding
+
+**Description**: Binding to GitHub
+
+**Function Description**:
+
+- Users bind their GitHub accounts with their Web3 wallet addresses on the platform.
+- This information is stored and associated with the user's Web3 identity.
+
+**Implementation Steps**:
+
+1. Users initiate a binding request on the platform.
+2. Users authorize the platform to access their GitHub account.
+3. The platform verifies user authorization and retrieves relevant information.
+4. The platform binds the GitHub account information with the user’s Web3 wallet address and stores it in the database.
+
+**Application Scenarios**:
+
+- Useful for developers to verify their contributions and link their Web3 identity with their GitHub profile.
+- Project owners can leverage this information for community building and recognition of developers’ contributions.
+
+### 3. Daily Activity
 
 **Description**: Activate or log in once a day
 
@@ -32,7 +73,7 @@
 - Encourages daily platform engagement and consistent user activity.
 - Helps maintain an active user base and can be tied to reward programs.
 
-### 2. Online Time
+### 4. Online Time
 
 **Description**: Online at a preset time
 
@@ -52,7 +93,7 @@
 - Useful for events or tasks that require user presence at a particular time, such as live streams or real-time collaborations.
 - Enhances participation in timed activities and can be used for event-based rewards.
 
-### 3. Number of Transactions
+### 5. Number of Transactions
 
 **Description**: Whether the number of trades on a contract has reached a preset number
 
@@ -73,7 +114,7 @@
 - Encourages users to engage with specific smart contracts.
 - Increases transaction volume and can be tied to reward programs or incentives.
 
-### 4. Interaction or Not
+### 6. Interaction or Not
 
 **Description**: Whether the user has interacted with a contract
 
