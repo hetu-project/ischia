@@ -2,7 +2,7 @@
 
 # Ischia introduce
 
-Ischia is an incentive points platform that enables project parties to build their own incentive applications for points ecosystem on Ischia DAPP. Projects can post user growth tasks through the Ischia platform to gain user growth. At the same time, Ischia functional components can be used to customize the application scenarios of various marketing activities. Ischia is also a reputation system, where users can increase reputation scores through on-chain transaction data or social bonding. reputation can be applied in kyc, airdrop, Credit and other scenarios. Ischia is a one-stop marketing platform.
+Ischia is an incentive points platform where users can increase reputation scores through on-chain & off-chain data. Projects can post user growth tasks through the Ischia platform to gain user growth. At the same time, Ischia functional components can be used to customize the application scenarios of various marketing activities. Ischia is also a reputation system, where users can increase reputation scores through on-chain transaction data or social bonding. reputation can be applied in kyc, airdrop, Credit and other scenarios. Ischia is a one-stop marketing platform.
 
 1. Ischia overview
     

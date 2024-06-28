@@ -5,10 +5,10 @@
 | Type | Description | State |
 | --- | --- | --- |
 | Daily task | Activate or log in once a day  — offchain |  |
-| Online time | On line at a preset time  |  |
+| Online | On line at a preset time  |  |
 | Number of Transactions | Whether the number of trades on a contract has reached a preset number |  |
 | Daily - Interaction or not | Whether the user has interacted with a contract  |  |
-| Follow | Follow x or join discord or github |  |
+| Follow | Follow x |  |
 |  |  |  |
 
 
@@ -25,12 +25,11 @@
 
 1. Users log in to the platform daily.
 2. The platform records the login and updates the user's activation status.
-3. The platform may provide rewards or incentives for maintaining a daily login streak.
+3. The platform may offer rewards or incentives for logging in daily.
 
 **Application Scenarios**:
 
-- Encourages daily platform engagement and consistent user activity.
-- Helps maintain an active user base and can be tied to reward programs.
+- Assists in retaining an engaged user community and can be linked to incentive schemes.
 
 ### 4. Online Time
 

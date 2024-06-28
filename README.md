@@ -2,10 +2,10 @@
 # ischia
 > This doc is still working in progress
 
-Ischia is an incentive points platform that enables project parties to build their own incentive applications for points ecosystem on Ischia DAPP. Projects can post user growth tasks through the Ischia platform to gain user growth. At the same time, Ischia functional components can be used to customize the application scenarios of various marketing activities. Ischia is also a reputation system, where users can increase reputation scores through on-chain transaction data or social bonding. reputation can be applied in kyc, airdrop, Credit and other scenarios. Ischia is a one-stop marketing platform.
+Ischia is an incentive points platform where users can increase reputation scores through on-chain & off-chain data. Projects can post user growth tasks through the Ischia platform to gain user growth. At the same time, Ischia functional components can be used to customize the application scenarios of various marketing activities. Ischia is also a reputation system, where users can increase reputation scores through on-chain transaction data or social bonding. reputation can be applied in kyc, airdrop, Credit and other scenarios. Ischia is a one-stop marketing platform.
 
 ## repository
-This repository is the set of resources that are used for Project Ischia. It contains code, deployment scripts, documents, and tests necessary .
+This repository contains all the resources used for Project Ischia, including code, deployment scripts, documents, and necessary tests.
 
 ## Architecture diagram
 ![alt text](assets/architecture.jpg)
